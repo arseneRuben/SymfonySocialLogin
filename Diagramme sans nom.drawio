@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T16:22:33.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ehogzMK_3PVXAcZNEAu3" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T16:31:50.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jd5f_u9clcP1FjeFG_Ts" version="21.0.2" type="github">
   <diagram name="Page-1" id="oE6Z1GI0ahl7Zlqq3ssP">
     <mxGraphModel dx="1753" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
         <mxCell id="odAQ4elze5tH7Wl0kh19-25" value="Quitter l&#39;application" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="odAQ4elze5tH7Wl0kh19-27" value="Login" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="odAQ4elze5tH7Wl0kh19-27" value="Rechercher le compte" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="670" y="240" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="odAQ4elze5tH7Wl0kh19-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.99;exitY=0.381;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.23;entryY=0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="odAQ4elze5tH7Wl0kh19-10" target="odAQ4elze5tH7Wl0kh19-27">
@@ -87,18 +87,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="460" y="339.99999999999994" as="sourcePoint" />
             <mxPoint x="620" y="339.99999999999994" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="odAQ4elze5tH7Wl0kh19-33" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.241;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="odAQ4elze5tH7Wl0kh19-20" target="odAQ4elze5tH7Wl0kh19-27">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="460" y="269.99999999999994" as="sourcePoint" />
-            <mxPoint x="720" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="odAQ4elze5tH7Wl0kh19-34" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.452;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="odAQ4elze5tH7Wl0kh19-22" target="odAQ4elze5tH7Wl0kh19-27">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="460" y="479.99999999999994" as="sourcePoint" />
-            <mxPoint x="620" y="479.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="odAQ4elze5tH7Wl0kh19-50" value="" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" vertex="1" parent="1">
